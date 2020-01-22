@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SolarSystem.dir/main.cpp.o  -o SolarSystem -lsfml-graphics -lsfml-window -lsfml-system 
